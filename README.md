@@ -15,5 +15,14 @@
 ### Schema 
 ![alt text](images/img_4.png)
 
+## 3. Tester les opérations du web service avec un outil comme SoapUI
 
+### importer les API dans SoupUI
+
+![alt text](images/img_5.png)
+
+&#8594; TEST
+![alt text](images/img_6.png)
+![alt text](images/img_7.png)
+![alt text](images/img_8.png)
 
