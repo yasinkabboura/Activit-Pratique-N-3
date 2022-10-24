@@ -1,9 +1,9 @@
-#Activité Pratique N° 3 : Web services SOAP, WSDL, UDDI avec JAXWS
+# Activité Pratique N° 3 : Web services SOAP, WSDL, UDDI avec JAXWS
 
 ## 1. Creation d'application
-###Classe Compte
+### Classe Compte
 ![alt text](images/img.png)
-###Classe BanqueService
+### Classe BanqueService
 ![alt text](images/img_1.png)
 ### Classe Server
 ![alt text](images/img_2.png)
@@ -12,7 +12,7 @@
 
 ![alt text](images/img_3.png)
 
-###Schema 
+### Schema 
 ![alt text](images/img_4.png)
 
 
