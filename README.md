@@ -26,3 +26,16 @@
 ![alt text](images/img_7.png)
 ![alt text](images/img_8.png)
 
+** **
+
+
+&#8594; Client SOAP Java
+
+![alt text](images/img_9.png)
+
+![alt text](images/img_10.png)
+
+![alt text](images/img_11.png)
+
+
+
